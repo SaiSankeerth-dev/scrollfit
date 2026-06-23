@@ -24,6 +24,10 @@ class MainActivity : ComponentActivity() {
 
   override fun onResume() {
     super.onResume()
+<<<<<<< HEAD
     com.example.tracking.TrackingController.sync(this)
   }
 }
+=======
+    com.example.tracking.TrackingController
+>>>>>>> 6ff7f7414c46bf35aab2609760905cffe8fb162d
