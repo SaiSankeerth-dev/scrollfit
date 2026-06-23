@@ -1,0 +1,6 @@
+{
+  "name": "ScrollFit",
+  "description": "ScrollFit reduces short-form consumption by pairing visible awareness and self-chosen friction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
